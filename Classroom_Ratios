@@ -1,0 +1,20 @@
+public class Classroom_Ratios {
+
+	public static void main(String[] args) {
+		
+		double boys = 11;
+		double girls = 16;
+		double teacher = 1;
+		double teacherAssistant = 1;
+		
+		double totalStudents = boys + girls;
+		double totalTeachers = teacher + teacherAssistant;
+				
+		double studentPercent = (girls / totalStudents) * 100;
+		double studentTeacherRatio = totalStudents / totalTeachers;
+		System.out.println(String.format("%.3f", studentPercent) + "% of the class are girls.");
+		System.out.println("The Student-Teacher ratio is " + studentTeacherRatio);
+
+	}
+
+}
