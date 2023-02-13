@@ -1,0 +1,9 @@
+.sign-up-box {
+
+    background-color: white;
+    border: 5px solid rgb(44, 234, 27);
+    height: 50%;
+    width: 400%;
+    border-radius: 20px;
+    padding: 30px;
+}

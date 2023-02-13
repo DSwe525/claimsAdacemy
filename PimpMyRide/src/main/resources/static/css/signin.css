@@ -1,0 +1,35 @@
+html body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+.button-wrapper {
+    background: rgb(44, 234, 27);
+    display: table-cell;
+    vertical-align: middle;
+    margin-top: 20px;
+  }
+  .sign-up-box {
+
+    background-color: white;
+    border: 5px solid rgb(44, 234, 27);
+    height: 50%;
+    width: 400%;
+    border-radius: 20px;
+    padding: 30px;
+}
+.submit-button {
+    margin-top: 20px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 30%;
+    vertical-align: center;
+}
+
+input[type=button] {    
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+  }

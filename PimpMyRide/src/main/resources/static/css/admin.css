@@ -1,0 +1,13 @@
+.buttons {
+    margin: 30px;
+    background-color: rgb(44, 234, 27);
+    text-decoration: none;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border: 3px solid black;
+    width: 10%;
+    height: 8%;
+    vertical-align: center;
+    font-size: large;
+}

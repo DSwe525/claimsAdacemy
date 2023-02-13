@@ -1,0 +1,36 @@
+.pmr-boxes {
+    border: 3px solid rgb(44, 234, 27);
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+    height: 600px;
+    width: 800px;
+}
+.car-image {
+    height: 300px;
+    width: 550px;
+    vertical-align: top;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.button-format {
+    color: rgb(44, 234, 27);
+    margin-top: 10px;
+    background-color: gray;
+    padding: 5px;
+    border-radius: 12px;
+    border: 2px solid black;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+}
+.car-text-top {
+    font-size: xx-large;
+    font-weight:500;
+}
+.car-text {
+    font-size: large;
+    font-weight: bold;
+}

@@ -1,0 +1,62 @@
+.bg3 {
+    background-image: url(https://www.buytshirtdesigns.net/wp-content/uploads/2019/06/pimp-my-ride-_thum.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pmr-boxes {
+    border: 3px solid rgb(44, 234, 27);
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+    height: 350px;
+    width: 250px;
+}
+.pmr-half-height {
+    height: 46%;
+}
+.pmr-one-fifth {
+    width: 20%;
+}
+.pmr-four-fifth {
+    width: 80%;
+}
+.car-image {
+    height: 150px;
+    width: 240px;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.justify-center {
+    justify-content: center;
+}
+.button-format {
+    margin-top: 10px;
+    background-color: gray;
+    padding: 5px;
+    border-radius: 12px;
+    border: 2px solid black;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+}
+.car-text {
+    font-size: large;
+    font-weight: bold;
+}
+.buttons2 {
+    margin: 30px;
+    background-color: rgb(44, 234, 27);
+    text-decoration: none;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgb(44, 234, 27);
+    width: 120px;
+    height: 45px;
+    vertical-align: center;
+    font-size: large;
+}
